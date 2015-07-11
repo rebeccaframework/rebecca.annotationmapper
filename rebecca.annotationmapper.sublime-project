@@ -1,0 +1,11 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+    "settings": {
+        "python_intepreter": "$project_path\\.venv\\Scripts\\python.exe"
+    }
+}

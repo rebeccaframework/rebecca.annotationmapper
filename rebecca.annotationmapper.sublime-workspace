@@ -1,0 +1,438 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pro",
+				"proportional_division_odds"
+			],
+			[
+				"prop",
+				"proportional_division_campaign"
+			],
+			[
+				"start",
+				"start_time"
+			],
+			[
+				"exec",
+				"execute_sql"
+			],
+			[
+				"target",
+				"target_date_end"
+			],
+			[
+				"Date",
+				"DateTimeField	class"
+			],
+			[
+				"CALC_",
+				"CALC_TERM_TYPE	statement"
+			],
+			[
+				"co",
+				"core	module"
+			],
+			[
+				"view",
+				"view_config	class"
+			],
+			[
+				"make",
+				"make_wsgi_app	function"
+			],
+			[
+				"Co",
+				"Configurator	class"
+			],
+			[
+				"def",
+				"deferred	local var"
+			],
+			[
+				"document",
+				"documentRepository	local var"
+			],
+			[
+				"const",
+				"constructor	keyword"
+			],
+			[
+				"d",
+				"deps	property"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "setup.py",
+			"settings":
+			{
+				"buffer_size": 54,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/Virtualenv/Python + Virtualenv.sublime-build",
+					""
+				],
+				[
+					"Packages/Kulture/ASP.NET.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 213.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"trail",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"git",
+				"Git: Add..."
+			],
+			[
+				"run",
+				"Run K Commands"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"gulp",
+				"Gulp"
+			],
+			[
+				"toggle",
+				"View: Toggle Tabs"
+			],
+			[
+				"linter",
+				"SublimeLinter: Enable Linting"
+			],
+			[
+				"package list",
+				"Package Control: List Packages"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"typescript",
+				"TypeScript: FormatBlock"
+			],
+			[
+				"virtualenv",
+				"Virtualenv: Activate"
+			],
+			[
+				"git:di",
+				"Git: Diff All Files"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 582.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"view.run_command('example')",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/aodag/Documents/workspace/src/github.com/aodag/rebecca.annotationmapper"
+	],
+	"file_history":
+	[
+		"/C/Users/aodag/Documents/workspace/src/project.beproud.jp/repo/booklista-sales.2015/apps/adjustment/work/sql/applyitemset/item.sql",
+		"/C/Users/aodag/Documents/workspace/src/project.beproud.jp/repo/booklista-sales.2015/apps/adjustment/work/sql/prices/assign_prices.sql",
+		"/C/Users/aodag/Documents/workspace/src/project.beproud.jp/repo/booklista-sales.2015/apps/adjustment/work/sql/proportional_division_normal/normal.sql",
+		"/C/Users/aodag/Documents/workspace/src/project.beproud.jp/repo/booklista-sales.2015/apps/adjustment/work/sql/proportional_division_normal/check.sql",
+		"/C/Users/aodag/Documents/workspace/src/project.beproud.jp/repo/booklista-sales.2015/apps/adjustment/work/sql/proportional_division_odds/check.sql",
+		"/C/Users/aodag/Documents/workspace/src/project.beproud.jp/repo/booklista-sales.2015/memo.rst",
+		"/C/Users/aodag/Documents/workspace/src/project.beproud.jp/repo/booklista-sales.2015/apps/adjustment/management/commands/adjustment_sales_work.py",
+		"/C/Users/aodag/Documents/workspace/src/project.beproud.jp/repo/booklista-sales.2015/apps/adjustment/work/sql/cleanup/delete_works.sql",
+		"/C/Users/aodag/Documents/workspace/src/project.beproud.jp/repo/booklista-sales.2015/apps/settings/aodag.py",
+		"/C/Users/aodag/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/aodag/Documents/workspace/src/project.beproud.jp/repo/booklista-sales.2015/apps/adjustment/work/sql/omitclosed/omitclosed.sql",
+		"/C/Users/aodag/Documents/workspace/src/project.beproud.jp/repo/booklista-sales.2015/apps/adjustment/work/sql/finish/sales_work.sql",
+		"/C/Users/aodag/Documents/workspace/src/project.beproud.jp/repo/booklista-sales.2015/apps/adjustment/work/__init__.py",
+		"/C/Users/aodag/Documents/workspace/src/project.beproud.jp/repo/booklista-sales.2015/apps/adjustment/work/sql/applyitemset/check.sql",
+		"/C/Users/aodag/Documents/workspace/src/project.beproud.jp/repo/booklista-sales.2015/apps/adjustment/work/sql/applyitemset/alacarte_parent.sql",
+		"/C/Users/aodag/Documents/workspace/src/project.beproud.jp/repo/booklista-sales.2015/apps/adjustment/models.py",
+		"/C/Users/aodag/Documents/workspace/src/project.beproud.jp/repo/booklista-sales.2015/apps/provided_by_cms/models.py",
+		"/C/Users/aodag/Documents/workspace/src/project.beproud.jp/repo/booklista-sales.2015/apps/adjustment/work/sql/applyitemset/item_sub.sql",
+		"/C/Users/aodag/Documents/workspace/src/project.beproud.jp/repo/booklista-sales.2015/apps/adjustment/work/sql/target/target.sql",
+		"/C/Users/aodag/Documents/workspace/src/project.beproud.jp/repo/booklista-sales.2015/apps/adjustment/work/sql/prices/check.sql",
+		"/C/Users/aodag/Documents/workspace/src/project.beproud.jp/repo/booklista-sales.2015/sql/adjustment-ddl/schema.adjustment_saleswork.sql",
+		"/C/Users/aodag/Documents/workspace/src/project.beproud.jp/repo/booklista-sales.2015/apps/adjustment/migrations/0003_saleswork.py",
+		"/C/Users/aodag/Documents/workspace/src/project.beproud.jp/repo/booklista-sales.2015/sql/adjustment-test-data/it/copy_delivery_release_item_history.sql",
+		"/C/Users/aodag/Documents/workspace/src/project.beproud.jp/repo/booklista-sales.2015/apps/adjustment/work/sql/assumedcp/assign_assumedcp.sql",
+		"/C/Users/aodag/Documents/workspace/src/project.beproud.jp/repo/booklista-sales.2015/apps/adjustment/work/sql/proportional_division_odds/normal.sql",
+		"/C/Users/aodag/Documents/workspace/src/project.beproud.jp/repo/booklista-sales.2015/requirements.txt",
+		"/C/Users/aodag/Documents/workspace/src/project.beproud.jp/repo/booklista-sales.2015/booklista-sales.2015.sublime-project",
+		"/C/Users/aodag/Documents/workspace/src/project.beproud.jp/repo/booklista-sales.2015/apps/adjustment/__init__.py",
+		"/C/Users/aodag/Documents/workspace/src/bitbucket.org/aodag/rebecca.app.cms/rebecca/app/cms/tests/test_it.py",
+		"/C/Users/aodag/Documents/workspace/src/bitbucket.org/aodag/rebecca.app.cms/client/test/ts/test_app.ts",
+		"/C/Users/aodag/Documents/workspace/src/bitbucket.org/aodag/rebecca.app.cms/client/test/js/mock.js",
+		"/C/Users/aodag/Documents/workspace/src/bitbucket.org/aodag/rebecca.app.cms/client/src/ts/repositories.ts",
+		"/C/Users/aodag/Documents/workspace/src/bitbucket.org/aodag/rebecca.app.cms/client/src/ts/models.ts",
+		"/C/Users/aodag/Documents/workspace/src/bitbucket.org/aodag/rebecca.app.cms/client/src/ts/modules.ts",
+		"/C/Users/aodag/Documents/workspace/src/bitbucket.org/aodag/rebecca.app.cms/client/src/ts/main.ts",
+		"/C/Users/aodag/AppData/Roaming/Sublime Text 3/Packages/User/hello_world.py",
+		"/C/Users/aodag/Documents/workspace/src/bitbucket.org/aodag/rebecca.app.cms/rebecca.app.cms.sublime-project",
+		"/C/Users/aodag/Documents/workspace/src/bitbucket.org/aodag/rebecca.app.cms/rebecca/app/cms/tests/test_app.py",
+		"/C/Users/aodag/Documents/workspace/src/bitbucket.org/aodag/rebecca.app.cms/rebecca/app/cms/views.py",
+		"/C/Users/aodag/Documents/workspace/src/bitbucket.org/aodag/rebecca.app.cms/client/src/ts/interfaces.ts",
+		"/C/Users/aodag/Documents/workspace/src/bitbucket.org/aodag/rebecca.app.cms/gulpfile.js",
+		"/C/Users/aodag/AppData/Roaming/Sublime Text 3/Packages/User/Gulp.sublime-settings",
+		"/C/Users/aodag/AppData/Roaming/Sublime Text 3/Packages/User/gulp.sublime-build",
+		"/C/Users/aodag/Documents/workspace/src/bitbucket.org/aodag/rebecca.app.cms/.sublime-build"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"store_rate",
+			"Bargain",
+			" with time zone",
+			",",
+			"choices"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			",\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "setup.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 54,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								45,
+								45
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 130.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 130.0
+	},
+	"output.gulp_output":
+	{
+		"height": 293.0
+	},
+	"output.variable_get":
+	{
+		"height": 130.0
+	},
+	"pinned_build_system": "",
+	"project": "rebecca.annotationmapper.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\aodag\\Documents\\works\\slack\\slack.sublime-project"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 382.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
