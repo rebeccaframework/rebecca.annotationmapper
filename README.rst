@@ -12,10 +12,11 @@ INSTALL
 
   $ pip install rebecca.annotationmapper
 
-``rebecca.annotationmapper`` provides include fook.
 
 USAGE
 ===============================
+
+``rebecca.annotationmapper`` provides include fook.
 
 ::
 
@@ -43,14 +44,24 @@ Annotations
 FromMatchDict
 -------------------------------
 
+provides value from ``request.matchdict``.
+
 FromParam
 -------------------------------
+
+provides value from ``request.params``.
 
 FromSession
 -------------------------------
 
+provides value from ``request.session``.
+
 FromHeader
 -------------------------------
 
+provides value from ``request.headers``.
+
 FromAttr
 ---------------------------------
+
+provides value from attribute of ``request``.
